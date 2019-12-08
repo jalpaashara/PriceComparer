@@ -1,1 +1,10 @@
-
+.box{
+  border-color: #f4c2c2;
+  border-style: double;
+}
+.outer{
+  z-index: 1;
+}
+.inner{
+  z-index: 2;
+}
